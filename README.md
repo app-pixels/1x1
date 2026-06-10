@@ -1,3 +1,5 @@
+> Part of [**app-pixels.com**](https://www.app-pixels.com) — browse + flash this app at [`/apps/1x1`](https://www.app-pixels.com/apps/1x1).
+
 # 1x1
 
 **1×1** · v1.0.0
