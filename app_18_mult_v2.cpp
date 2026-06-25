@@ -254,7 +254,7 @@ static void handlePwrShortPress() {
 }
 
 // ── App entry points ──────────────────────────────────────────────────────────
-void app18_setup(Arduino_SH8601 *passed_gfx) {
+void app18_setup(Arduino_OLED *passed_gfx) {
   (void)passed_gfx;
   canvas = g_canvas;
   pinMode(BOOT_BTN, INPUT_PULLUP);
